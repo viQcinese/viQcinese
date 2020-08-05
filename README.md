@@ -13,9 +13,9 @@
 <span> 👀 Always looking up for ways to become a better developer </span> <br>
 
 ### Reach me at
-<img align="left" alt="Gmail" height="22px" src="https://raw.githubusercontent.com/viQcinese/viQcinese/master/src/gmail.svg" /> <span> vitor.senise@gmail.com </span> <br>
-<img align="left" alt="LinkedIn" height="22px" src="https://raw.githubusercontent.com/viQcinese/viQcinese/master/src/linkedin.svg" /> <span> https://www.linkedin.com/in/vitor-senise-19b2501b0/ </span> <br>
-<img align="left" alt="GitHub" height="22px" src="https://raw.githubusercontent.com/viQcinese/viQcinese/master/src/github.svg" /> <span> https://github.com/viQcinese </span> <br>
+<img align="left" alt="Gmail" height="20px" src="https://raw.githubusercontent.com/viQcinese/viQcinese/master/src/gmail.svg" /> <span> vitor.senise@gmail.com </span> <br>
+<img align="left" alt="LinkedIn" height="20px" src="https://raw.githubusercontent.com/viQcinese/viQcinese/master/src/linkedin.svg" /> <span> https://www.linkedin.com/in/vitor-senise-19b2501b0/ </span> <br>
+<img align="left" alt="GitHub" height="20px" src="https://raw.githubusercontent.com/viQcinese/viQcinese/master/src/github.svg" /> <span> https://github.com/viQcinese </span> <br>
  
 ### Technologies
 <img align="left" alt="HTML5" height="50px" src="https://raw.githubusercontent.com/viQcinese/viQcinese/master/src/html5.svg" />
@@ -24,7 +24,7 @@
 <img align="left" alt="NodeJS" height="50px" src="https://raw.githubusercontent.com/viQcinese/viQcinese/master/src/node-dot-js.svg" />
 <img align="left" alt="MongoDB" height="50px" src="https://raw.githubusercontent.com/viQcinese/viQcinese/master/src/mongodb.svg" />
 <img align="left" alt="React" height="50px" src="https://raw.githubusercontent.com/viQcinese/viQcinese/master/src/react.svg" />
-<img align="left" alt="Git" height="50px" src="https://raw.githubusercontent.com/viQcinese/viQcinese/master/src/git.svg.svg" />
+<img align="left" alt="Git" height="50px" src="https://raw.githubusercontent.com/viQcinese/viQcinese/master/src/git.svg" />
 
 
 
