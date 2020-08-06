@@ -9,7 +9,7 @@
 
 <span>⚡ I'm currently learning React and improving my front-end skills <span> <br>
 <span>  🙌 Looking to colaborate on MERN stack projects </span> <br>
-<span> 👍 I can help you with restfull APIs, mongoose and basic JavaScript </span> <br>
+<span> 👍 I can help you with restfull APIs on Node with express.js, mongoose and basic JavaScript </span> <br>
 <span> 👀 Always looking up for ways to become a better developer </span> <br>
 
 ### Reach me at
