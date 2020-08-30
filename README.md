@@ -2,12 +2,12 @@
 
 ### About me
 
-<span> 📚 I'm a philosophy Teacher based in São Paulo, Brazil </span> <br>
+<span> 📚 Philosophy Teacher based in São Paulo, Brazil </span> <br>
 <span> 💪 Building up to become a Software Developer </span><br>
 
 ### What I'm learning 
 
-<span>⚡ I'm currently learning React and improving my front-end skills <span> <br>
+<span>⚡ Currently learning React, SQL and Typescript <span> <br>
 <span>  🙌 Looking to colaborate on MERN stack projects </span> <br>
 <span> 👍 I can help you with restfull APIs on Node with express.js, mongoose and basic JavaScript </span> <br>
 <span> 👀 Always looking up for ways to become a better developer </span> <br>
