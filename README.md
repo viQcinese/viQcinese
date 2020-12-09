@@ -8,9 +8,8 @@
 ### What I'm learning 
 
 <span>⚡ Currently learning React, SQL and Typescript <span> <br>
-<span>  🙌 Looking to colaborate on MERN stack projects </span> <br>
-<span> 👍 I can help you with restfull APIs on Node with express.js, mongoose and basic JavaScript </span> <br>
-<span> 👀 Always looking up for ways to become a better developer </span> <br>
+<span> 👍 I can help you with restfull APIs on Node, React and basic JavaScript </span> <br>
+<span> 👀 Always looking for ways to become a better developer </span> <br>
 
 ### Reach me at
 <img align="left" alt="Gmail" height="20px" src="https://raw.githubusercontent.com/viQcinese/viQcinese/master/src/gmail.svg" /> <span> vitor.senise@gmail.com </span> <br>
@@ -22,9 +21,7 @@
 <img align="left" alt="CSS3" height="20px" src="https://raw.githubusercontent.com/viQcinese/viQcinese/master/src/css3.svg" />CSS3 <br>
 <img align="left" alt="JavaScript" height="20px" src="https://raw.githubusercontent.com/viQcinese/viQcinese/master/src/javascript.svg" />JavaScript <br>
 <img align="left" alt="NodeJS" height="20px" src="https://raw.githubusercontent.com/viQcinese/viQcinese/master/src/node-dot-js.svg" />NodeJS <br>
-<img align="left" alt="MongoDB" height="20px" src="https://raw.githubusercontent.com/viQcinese/viQcinese/master/src/mongodb.svg" />MongoDB <br>
 <img align="left" alt="React" height="20px" src="https://raw.githubusercontent.com/viQcinese/viQcinese/master/src/react.svg" />React <br>
-<img align="left" alt="Git" height="20px" src="https://raw.githubusercontent.com/viQcinese/viQcinese/master/src/git.svg" />Git <br>
-
+<img align="left" alt="Typescript" height="20px" src="https://raw.githubusercontent.com/viQcinese/viQcinese/master/src/typescript.svg" />Typescript <br>
 
 
