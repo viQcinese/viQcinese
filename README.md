@@ -5,9 +5,9 @@
 <span> 📚 Philosophy Teacher based in São Paulo, Brazil </span> <br>
 <span> 💪 Building up to become a Software Developer </span><br>
 
-### What I'm learning 
+### What I can do 
 
-<span>⚡ Currently learning React, SQL and Typescript <span> <br>
+<span> ⚡ Currently working with React, Typescript and GraphQL <span> <br>
 <span> 👍 I can help you with restfull APIs on Node, React and basic JavaScript </span> <br>
 <span> 👀 Always looking for ways to become a better developer </span> <br>
 
