@@ -2,7 +2,7 @@
 
 ### About me
 
-<span> 📚 Front-end developer at NPL Brasil </span> <br>
+<span> 📚 Front-end developer at Compass UOL </span> <br>
 <span> ⚡ Currently working with React, Typescript and GraphQL <span> <br>
 <span> 👀 Always looking for ways to become a better developer </span> <br>
 
