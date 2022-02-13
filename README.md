@@ -3,7 +3,7 @@
 ### About me
 
 <span> 📚 Front-end developer at Compass UOL </span> <br>
-<span> ⚡ Currently working with React, Typescript and GraphQL <span> <br>
+<span> ⚡ Currently working with NextJS, Typescript and GraphQL <span> <br>
 <span> 👀 Always looking for ways to become a better developer </span> <br>
 
 ### Reach me at
@@ -12,12 +12,12 @@
 - https://github.com/viQcinese 
  
 ### Technologies
+ - React 
+ - NextJS
+ - Typescript
+ - GraphQL
+ - NodeJS
  - HTML5
  - CSS3
- - Javscript
- - NodeJS
- - Typescript
- - React
- - GraphQL
 
 
