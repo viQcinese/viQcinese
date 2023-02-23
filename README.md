@@ -2,8 +2,8 @@
 
 ### About me
 
-<span> 📚 Front-end developer at GeekHunter </span> <br>
-<span> ⚡ Currently working with NextJS, Typescript and GraphQL <span> <br>
+<span> 📚 Front-end developer at Axur </span> <br>
+<span> ⚡ Currently working with React, Typescript and Microfrontends <span> <br>
 <span> 👀 Always looking for ways to become a better developer </span> <br>
 
 ### Reach me at
@@ -15,6 +15,7 @@
  - React 
  - NextJS
  - Typescript
+ - Microfrontend
  - GraphQL
  - NodeJS
  - HTML5
